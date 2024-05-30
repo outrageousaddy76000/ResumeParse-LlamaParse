@@ -15,6 +15,7 @@ Ollama : Download through the official website of Ollama.
 Install the necessary Python packages using pip:
 ```
 pip install llama_index python-dotenv
+pip install llama-index-core llama-index-readers-file llama-index-llms-ollama llama-index-embeddings-huggingface
 ```
 ### 2. Install the Phi3 Model using Ollama
 Ensure you have Ollama installed and set up. Follow the installation instructions for Ollama from their official documentation.
