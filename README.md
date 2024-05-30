@@ -9,12 +9,12 @@ This project extracts and analyzes the achievements section from resumes in PDF 
 
 ## Installation Steps
 
-### 1. Install Required Python Packages
+### 1. Install Required Python Packages and Ollama
+Ollama : Download through the official website of Ollama.
 
 Install the necessary Python packages using pip:
-
 ```
-pip install llama-index ollama python-dotenv
+pip install llama_index python-dotenv
 ```
 ### 2. Install the Phi3 Model using Ollama
 Ensure you have Ollama installed and set up. Follow the installation instructions for Ollama from their official documentation.
